@@ -10,7 +10,8 @@ whois = [
   "Hey, I'm Patience!👋",
   "I'm a software engineer who builds engaging websites like this one",
   "and who enjoys a magnitude of learning and curating all aspects of software languages.",
-  "I am avid reader, history lover, loves retro to modern gaming, and an habit of learning new technologies and code.",
+  "I am avid reader, history lover, loves retro to modern gaming, and an habit of learning",
+  "new technologies and code.",
   "Now, I make and build anything my heart desires, like this terminal website.",
   "<br>"
 ];
