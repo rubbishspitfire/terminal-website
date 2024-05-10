@@ -1,1 +1,1 @@
-# terminal-website
+A cool, responsive, terminal-like portfolio website made with HTML, CSS, and Javascript.
